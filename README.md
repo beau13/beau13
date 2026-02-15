@@ -1,29 +1,48 @@
-### 👋 Привет, я Даша
+<h1 align="center">Привет, я <a href="https://t.me/da6uly" target="_blank">Даша</a> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/>
+</h1>
 
-**Обо мне:**  
-Я начинающий аналитик данных с техническим образованием.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&font=Montserrat&size=22&weight=500&lines=Data+Analyst+%7C+Product+Analyst" alt="Typing SVG" />
+</div>
 
-- 🔄 Перешла из разработки в аналитику данных
+<!-- Далее идёт блок "Обо мне" и остальное содержимое -->
+### Обо мне
+
+Я начинающий аналитик данных с техническим образованием <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" width="30" height="30" alt="Котик печатает">
+
+
+- 👩🏻‍💻 Перешла из разработки в аналитику данных
 - 📈 Главная цель — помогать бизнесу расти через данные
-- 🧠 Люблю решать задачки на LeetCode
+- 📍 Люблю решать задачки на LeetCode
 - 🤝 Открыта к сотрудничеству и новым проектам
 ---
 
-### 🛠 Языки и инструменты  
+<div align="center">
+  
+### 🛠 Языки и инструменты
 
-| PYTHON | SQL | POSTGRESQL | PANDAS | NUMPY | PLOTLY | SCIPY | SEABORN |
-|---|---|---|---|---|---|---|---|
-| MATPLOTLIB | JUPYTER | REDASH | DATALENS | AIRFLOW | API | GIT |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-EA4E5E?style=for-the-badge&logo=redash&logoColor=white)
+![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FF6600?style=for-the-badge&logo=yandexdatalens&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
 
 ---
 
 ### 📊 Умею  
 
-- Проведить A/B тестов, регрессионный и когортный анализ (Python)  
+- Проводить A/B тесты и когортный анализ (Python)  
 - SQL: вложенные запросы, оконные функции, CASE   
 - Git, работа в команде  
-- Дашборды (Datalens)  
-- Расчёт метрик: ARPU, ARPPU, retention, conversion, churn rate  
+- Дашборды (DataLens)  
+- Расчёт метрик: ARPU, ARPPU, retention, conversion 
 
 ---
 
@@ -36,8 +55,7 @@
 
 ---
 
-### 📫 Связь со мной  
+### 📫 Связь со мной
 
-- Telegram: []  
-- Gmail: [email]  
-- LinkedIn: [ссылка]  
+<a href="https://t.me/da6uly"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="30" height="30"/></a>
+<a href="mailto:darianazina13@mail.ru"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" height="30"/></a>
